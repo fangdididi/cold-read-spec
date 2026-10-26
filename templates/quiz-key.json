@@ -1,0 +1,5 @@
+[
+  {"id": "C1", "q": "<a question a builder will ask on day one>", "expect": ["<word or number the right answer must contain>"], "refs": ["R1"]},
+  {"id": "C2", "q": "<an edge case question>", "expect": ["<term>"], "refs": ["R2"]},
+  {"id": "C3", "q": "<a 'what is NOT included' question>", "expect": ["<term>"], "refs": ["R1"]}
+]

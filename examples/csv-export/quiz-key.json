@@ -1,0 +1,9 @@
+[
+  {"id": "C1", "q": "What is the longest date range allowed?", "expect": ["366"], "refs": ["R2"]},
+  {"id": "C2", "q": "Which time zone decides the issued_date value?", "expect": ["client"], "refs": ["R3"]},
+  {"id": "C3", "q": "How is 1234.5 written in the total column?", "expect": ["1234.50"], "refs": ["R4"]},
+  {"id": "C4", "q": "What does a viewer get when calling the export URL?", "expect": ["403"], "refs": ["R5"]},
+  {"id": "C5", "q": "What file encoding is used?", "expect": ["utf-8", "byte-order mark"], "refs": ["D1"]},
+  {"id": "C6", "q": "What happens when the range has no invoices?", "expect": ["header"], "refs": ["R1"]},
+  {"id": "C7", "q": "Can one export cover two clients?", "expect": ["no"], "refs": ["R1"]}
+]

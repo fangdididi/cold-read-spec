@@ -1,0 +1,9 @@
+{
+  "C1": "366 days; 367 is refused.",
+  "C2": "The client's time zone (glossary + R3).",
+  "C3": "1234.50",
+  "C4": "HTTP 403 and no file.",
+  "C5": "UTF-8 with a byte-order mark (D1).",
+  "C6": "Only the header row, and the page says 0 invoices.",
+  "C7": "No, that is out of scope."
+}
